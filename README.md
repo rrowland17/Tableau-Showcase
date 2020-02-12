@@ -1,6 +1,8 @@
 # Tableau-Showcase
 
+Please use the following link to access the full Tableau analysis on Tableau Public
   • [Tableau Solution](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/MostPopularStartingTimeBasedonTimeofDay)
+
   
 # In-Depth Analysis
 
@@ -12,6 +14,8 @@
 
 
 # Visulizations Referenced:
+
+Feel free to use the links below to take a closer look at the visulizations referenced:
 
 • [Time of Day](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/MostPopularStartingTimeBasedonTimeofDay)
 • [Popular Starting Locations](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/PopularStartingLocations)
