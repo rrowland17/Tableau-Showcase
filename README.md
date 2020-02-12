@@ -17,7 +17,7 @@ Please use the following link to access the full Tableau analysis on Tableau Pub
 
 Feel free to use the links below to take a closer look at the visulizations referenced:
 
-• [Time of Day](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/MostPopularStartingTimeBasedonTimeofDay)
+[Time of Day](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/MostPopularStartingTimeBasedonTimeofDay)
 • [Popular Starting Locations](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/PopularStartingLocations)
 • [Popular Ending Locations](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/PopularEndingLocations)
 • [Gender Analysis](https://public.tableau.com/profile/rebekah.rowland#!/vizhome/TableauShowcase2_0/CountofUsersbyGender)
